@@ -1,7 +1,8 @@
 -@OKPP
--I’m currently learning python
+-learning python
+-   print("okpp")
 
-- 📫 How to reach me ........
+-How to reach me ........
 
 <!---
 OKPP10/OKPP10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
