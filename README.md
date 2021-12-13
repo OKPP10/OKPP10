@@ -1,10 +1,5 @@
-=================
-@OKPP           =
-                =
-learning python =
-                =
-print("okpp")   =
-=================
+@okpp
+
 
 <!---
 OKPP10/OKPP10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
