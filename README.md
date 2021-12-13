@@ -1,8 +1,14 @@
--@OKPP
--learning python
--   print("okpp")
+@OKPP
+learning python
+print("okpp")
 
--How to reach me ........
+====================================
+.. . . .. ..  .. .. . . . .. . . . =
+..     .. .. ..  ..     . ..     . =
+..     .. ....   .. . . . .. . . . =
+..     .. ..  .. ..       ..       =
+.. . . .. ..  .. ..       ..       =   
+====================================
 
 <!---
 OKPP10/OKPP10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
