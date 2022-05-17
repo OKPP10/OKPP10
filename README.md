@@ -2,7 +2,7 @@
 * BEGGINER.
 * slack_off == 1;
 * CURRENTLY MOST PORBABLY = slacking_off;
-* char CONTACT[] = "aapupz@gmail.com";
+* char contact[] = "aapupz@gmail.com";
 * ;)
 
 * DOES:
